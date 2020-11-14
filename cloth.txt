@@ -1,0 +1,49 @@
+DB::table('product_cloths')->insert([
+            'imagePath' => '/images/shirt-shorts/shirt10.jpg',
+            'title' => 'Luffy Shirt',
+            'price' => 200
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt4.jpg',
+            'title' => 'Luffy Shirt',
+            'price' => 199
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt1.jpg',
+            'title' => 'One Piece Shirt',
+            'price' => 250
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt2.jpg',
+            'title' => 'One Piece Shirt',
+            'price' => 199
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt3.jpg',
+            'title' => 'Law Shirt',
+            'price' => 200
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt5.jpg',
+            'title' => 'One Piece Shirt',
+            'price' => 199
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt6.jpg',
+            'title' => 'Luffy Shirt',
+            'price' => 200
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt7.jpg',
+            'title' => 'Luffy Shirt',
+            'price' => 199
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt8.jpg',
+            'title' => 'One Piece Shirt',
+            'price' => 200
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt9.jpg',
+            'title' => 'Nami Shirt',
+            'price' => 199
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt11.jpg',
+            'title' => 'Luffy Shirt',
+            'price' => 200
+        ],[
+            'imagePath' => '/images/shirt-shorts/shirt12.jpg',
+            'title' => 'Luffy Shirt',
+            'price' => 199
+        ]);

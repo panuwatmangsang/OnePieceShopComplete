@@ -1,0 +1,83 @@
+$poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster3.jpg',
+            'title' => 'Monkey D Dragon',
+            'price' => 450
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster9.jpg',
+            'title' => 'Shank Coos',
+            'price' => 440
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster1.jpg',
+            'title' => 'God Usopp',
+            'price' => 300
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster2.jpg',
+            'title' => 'Charlotte Katakuri',
+            'price' => 440
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster4.jpg',
+            'title' => 'Charlotte Linlin',
+            'price' => 450
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster5.jpg',
+            'title' => 'Edward Newgate',
+            'price' => 440
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster6.jpg"',
+            'title' => 'FraNaminkky',
+            'price' => 450
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster7.jpg',
+            'title' => 'Franky',
+            'price' => 440
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster8.jpg',
+            'title' => 'Brook',
+            'price' => 440
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster10.jpg',
+            'title' => 'Gold D Roger',
+            'price' => 440
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster11.jpg',
+            'title' => 'Monkey D Luffy',
+            'price' => 440
+        ]);
+        $poster->save();
+
+        $poster = new \App\ProductPoster([
+            'imagePath' => '/images/poster/poster12.jpg',
+            'title' => 'Roronoa Zoro',
+            'price' => 440
+        ]);
+        $poster->save();

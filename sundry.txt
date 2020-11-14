@@ -1,0 +1,49 @@
+ DB::table('product_sundries')->insert([
+            'imagePath' => '/images/sundry/bepo3/bepo31.jpg',
+            'title' => 'ฺBepo',
+            'price' => 250
+        ],[
+            'imagePath' => '/images/sundry/bepo/bepo.jpg',
+            'title' => 'Bepo',
+            'price' => 200
+        ],[
+            'imagePath' => '/images/sundry/bepo2/bepo21',
+            'title' => 'ฺBepo',
+            'price' => 300
+        ],[
+            'imagePath' => '/images/sundry/glass-water/glass-water4.jpg',
+            'title' => 'One Piece Water Glass',
+            'price' => 230
+        ],[
+            'imagePath' => '/images/sundry/luffy-small/luffy-small2.jpg',
+            'title' => 'Mini Luffy',
+            'price' => 200
+        ],[
+            'imagePath' => '/images/sundry/sundry1.jpg',
+            'title' => 'Luffy Water Glass',
+            'price' => 100
+        ],[
+            'imagePath' => '/images/sundry/sundry3.jpg"',
+            'title' => 'Luffy Mattress set',
+            'price' => 400
+        ],[
+            'imagePath' => '/images/sundry/sundry4.jpg',
+            'title' => 'Luffy Mattress set',
+            'price' => 350
+        ],[
+            'imagePath' => '/images/sundry/sundry5.jpeg',
+            'title' => 'Luffy Doll',
+            'price' => 250
+        ],[
+            'imagePath' => '/images/sundry/sundry6.jpg',
+            'title' => 'Chopper Doll',
+            'price' => 250
+        ],[
+            'imagePath' => '/images/sundry/sundry7.jpg',
+            'title' => 'One Piece Doll',
+            'price' => 300
+        ],[
+            'imagePath' => '/images/sundry/sundry8.jpg',
+            'title' => 'Chopper Doll',
+            'price' => 250
+        ]);

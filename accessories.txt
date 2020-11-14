@@ -1,0 +1,49 @@
+DB::table('product_accessories')->insert([
+            'imagePath' => '/images/accessories/accessories8.jpg',
+            'title' => 'Hancock Earrings',
+            'price' => 140
+        ],[
+            'imagePath' => '/images/accessories/accessories3.jpg',
+            'title' => 'Zoro Sword',
+            'price' => 125
+        ],[
+            'imagePath' => '/images/accessories/accessories9.jpg',
+            'title' => 'Bangle',
+            'price' => 130
+        ],[
+            'imagePath' => '/images/accessories/accessories1.jpg',
+            'title' => 'Necklace',
+            'price' => 150
+        ],[
+            'imagePath' => '/images/accessories/accessories2.jpg',
+            'title' => 'Luffy Hat',
+            'price' => 140
+        ],[
+            'imagePath' => '/images/accessories/accessories4.jpeg',
+            'title' => 'Zoro Sword',
+            'price' => 125
+        ],[
+            'imagePath' => '/images/accessories/accessories5.jpg',
+            'title' => 'Zoro Sword',
+            'price' => 130
+        ],[
+            'imagePath' => '/images/accessories/accessories6.jpg',
+            'title' => 'Chopper',
+            'price' => 150
+        ],[
+            'imagePath' => '/images/accessories/accessories7.jpg',
+            'title' => 'Ace Hat',
+            'price' => 140
+        ],[
+            'imagePath' => '/images/accessories/accessories12.jpg',
+            'title' => 'One Piece Ring',
+            'price' => 125
+        ],[
+            'imagePath' => '/images/accessories/accessories10.jpg',
+            'title' => 'One Piece Ring',
+            'price' => 125
+        ],[
+            'imagePath' => '/images/accessories/accessories11.jpg',
+            'title' => 'One Piece Ring',
+            'price' => 125
+        ]);
